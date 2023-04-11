@@ -1,0 +1,9 @@
+dist/
+deploy_versions/
+.temp/
+.idea/
+.rn_temp/
+node_modules/
+.DS_Store
+.swc
+yarn.lock
